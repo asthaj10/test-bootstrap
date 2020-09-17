@@ -1,0 +1,23 @@
+.row-header{
+    margin: 20px auto;
+    padding: 0px auto;
+}
+
+.row-content{
+    margin: 0px auto;
+    padding: 15px 0px 15px 0px;
+    border-bottom: ridge;
+    min-height: 400px;
+}
+
+.footer{
+    background-color: burlywood;
+    margin: 0px auto;
+    color: chocolate;
+}
+
+.jumbotron{
+    padding: 70px 30px 70px 30px;
+    background-color: burlywood;
+    color: chocolate;
+}
